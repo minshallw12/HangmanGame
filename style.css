@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 30px;
+  font-color: blue;
+}
+h2 {
+  font-size: 22px;
+  padding: 10px;
+}
+
+.top {
+  text-align: center;
+  background-color: skyblue;
+}
+.directions, .instructions {
+  text-align: center;
+  background-color: skyblue;
+  padding: 10px;
+}
